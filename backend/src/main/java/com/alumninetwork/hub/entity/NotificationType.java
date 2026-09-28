@@ -1,0 +1,14 @@
+package com.alumninetwork.hub.entity;
+
+public enum NotificationType {
+    MENTORSHIP_REQUEST,
+    MENTORSHIP_ACCEPTED,
+    MENTORSHIP_REJECTED,
+    JOB_APPLICATION,
+    JOB_APPLICATION_STATUS,
+    EVENT_REMINDER,
+    NEW_MESSAGE,
+    REFERRAL_REQUEST,
+    REFERRAL_UPDATE,
+    GENERAL
+}
