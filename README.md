@@ -1,6 +1,7 @@
 # 🎓 Alumni Networking Hub
 
 A production-ready full-stack alumni networking platform connecting students and alumni for mentorship, jobs, events, real-time chat, and donations.
+> 🚀 **Live Demo:** [https://alumni-network-tau.vercel.app](https://alumni-network-tau.vercel.app)
 
 ## 🏗️ Tech Stack
 
